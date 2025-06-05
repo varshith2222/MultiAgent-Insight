@@ -48,3 +48,6 @@ cd flowsync-dashboard
 
 # Install dependencies
 npm install
+---
+### 🖼️ UI Preview
+![image](https://github.com/user-attachments/assets/cfc9b540-564f-4adc-becf-0db4f687e3d2)
